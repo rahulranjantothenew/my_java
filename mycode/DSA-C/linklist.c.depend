@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652353018 source:c:\rahul\dsa-c\linklist.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
